@@ -109,7 +109,7 @@ Docs are located [here.](https://arduino-esp8266.readthedocs.io/en/latest/)
 1. Start the Arduino IDE (1.8.4 was used at the time of this writing)
 1. Configure the sketchbook for the poc folder. 
     * Select File -> Preferences -> settings tab and change the "Sketchbook 
-    location" to this poc folder.
+    location" to this repository folder.
 1. Add the ESP8266 board
     * Select File -> Preferences -> settings tab and in the "Additional Boards
     Manager URLs" add 
